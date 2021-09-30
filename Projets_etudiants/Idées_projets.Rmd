@@ -1,0 +1,16 @@
+---
+title: "Idées de projets"
+author: "Visseho Adjiwanou, PhD."
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Introduction
+
+Il est possible que vous n'ayiez pad d'idées sur ce que vous aimeriez faire. Il n'est pas important que vous travailliez forcément sur vos projets, d'ailleurs, ce n'est pas toujours une bonne idée (car cela peut vous donner l'illusion que vous avez déjà tout fait). Par contre, en travaillant sur d'autres projets, vous pouvez acquérir une compétence complémentaire (autres méthodes) et avoir la possibilité de publier plus d'un article avant la fin de votre maîtrise. C'est une bonne opportunité pour des demandes de subventions pour votre thèse. Bien évidemment, si vous travaillez en plus sur vos propres données, je serai ravi d'en discuter avec vous et de vous lire. Je vous présente ici quelques idées qui peuvent vous intéresser:
+
+# Au Canada et dans les pays dévelopés
+
+## Famille, 
